@@ -1,1 +1,2 @@
-# Customer_Segmentation_using_ML
+# Customer Segmentation using unsupervised machine learning algorithm (k-means clustering)
+For the implementation and tests I used Python programming language. As for reading the data file, with .csv extension we used the Pandas library, and for plotting the data needed for the algorithms we used the matplotlib and seaborn library. First step is Data acquisition followed by Data Pre-processing. Then, Data analyzing using K-means within principal component, choosing a number of clusters and analyze the results.
